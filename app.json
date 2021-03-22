@@ -7,10 +7,10 @@
         "extension",
         "review"
     ],
-    "repository": "https://github.com/freaktechnik/park-stream",
+    "repository": "https://github.com/testermania/park-stream",
     "env": {
         "TWITCH_STREAMKEY": {
-            "description": "Twitch Stream key (found at https://www.twitch.tv/dashboard/settings)",
+            "description": "code",
             "required": false
         }
     },
