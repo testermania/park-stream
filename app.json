@@ -9,8 +9,8 @@
     ],
     "repository": "https://github.com/testermania/park-stream",
     "env": {
-        "TWITCH_STREAMKEY": {
-            "description": "code",
+        "STREAM_CODE": {
+            "description": "FFmpeg stream code here",
             "required": false
         }
     },
