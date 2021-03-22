@@ -11,7 +11,7 @@
     "env": {
         "TWITCH_STREAMKEY": {
             "description": "Twitch Stream key (found at https://www.twitch.tv/dashboard/settings)",
-            "required": true
+            "required": false
         }
     },
     "stack": "container",
